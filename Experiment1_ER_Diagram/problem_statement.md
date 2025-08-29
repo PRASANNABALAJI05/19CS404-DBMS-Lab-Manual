@@ -142,7 +142,10 @@ A popular restaurant wants to manage **reservations, orders, and billing**.
 - Service charges fixed percentage (not modeled).  
 
 ---
-
+### ER DIAGRAM SUBMISSION
+- Name: PRASANNA BALAJI B
+- Reg no: 212223060203
+---
 ## 📝 Instructions for Students
 1. Complete **all three scenarios (A, B, C)**.  
 2. Identify **entities, relationships, and attributes** for each scenario.  
