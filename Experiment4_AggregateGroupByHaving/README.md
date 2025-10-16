@@ -1,5 +1,5 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## NAME: PRASANNA BALAJI N
+## NAME: PRASANNA BALAJI B
 ## REG.NO:212223060203
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
